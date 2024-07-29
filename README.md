@@ -24,4 +24,4 @@ FusionAuth will initially be configured with these settings:
 * Your example username is `richard@example.com` and your password is `password`.
 * Your admin username is `admin@example.com` and your password is `password`.
 * Your API key is `33052c8a-c283-4e96-9d2a-eb1215c69f8f-not-for-prod`
-* Your fusionAuthBaseUrl is 'http://localhost:9011/'
+* Your FusionAuth URL is 'http://localhost:9011/'
